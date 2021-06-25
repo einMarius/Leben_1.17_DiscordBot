@@ -1,0 +1,6 @@
+main: me.marius.main.Main
+version: 1.0
+name: Leben_DiscordBot
+author: einMarius
+
+commands:
